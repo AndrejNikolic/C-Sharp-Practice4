@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ChampLinq">
+  <DataContextMoniker Name="/ChampLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fa25140e-0a2a-4b9d-aa10-e0cffa39b1c0" absoluteBounds="1.5, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ChampLinqDataContext/Champ" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f0c36972-d3c9-4c3a-a56c-784501c4a3a4" absoluteBounds="1.5150000000000001, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
